@@ -74,6 +74,8 @@ The system allows an admin to manage complete student records including personal
 
 This project is ideal for beginners and intermediate C++ learners because it connects core programming concepts with a real-world use case. It can be used as a college project, internship portfolio project, or GitHub showcase project.
 
-## Author
 
+Created by 
 Ayan Khan
+Computer Science Student
+Bits Pilani Dubai Campus
