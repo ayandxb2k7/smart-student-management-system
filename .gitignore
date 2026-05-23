@@ -1,0 +1,6 @@
+student_management
+student_management.exe
+students.txt
+*.o
+*.out
+.vscode/

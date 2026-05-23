@@ -1,0 +1,5 @@
+101|Ayan Khan|Computer Science|1|88,91,84,79,86|40|36
+102|Rahul Sharma|Computer Science|1|76,81,73,69,72|40|32
+103|Sara Ali|Electronics|2|92,95,89,94,91|42|40
+104|Zaid Ahmed|Mechanical|2|61,58,64,55,60|38|30
+105|Neha Verma|Computer Science|1|45,39,52,48,44|40|27
